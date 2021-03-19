@@ -61,6 +61,13 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "repositories": {
+        "vdvt/recaptcha": {
+            "type": "path",
+            "url": "/Users/dinhnhung/Documents/ProjectBigin/TrinhLePackages/packages/VDVT/Recaptcha",
+            "options": {
+                "symlink": true
+            }
+        },
         "vdvt/history": {
             "type": "path",
             "url": "/Users/dinhnhung/Documents/ProjectBigin/TrinhLePackages/packages/VDVT/History",
