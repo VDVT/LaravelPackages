@@ -63,28 +63,28 @@
     "repositories": {
         "vdvt/recaptcha": {
             "type": "path",
-            "url": "/Users/dinhnhung/Documents/ProjectBigin/TrinhLePackages/packages/VDVT/Recaptcha",
+            "url": "/Users/dinhnhung/Documents/ProjectBigin/LaravelPackages/packages/VDVT/Recaptcha",
             "options": {
                 "symlink": true
             }
         },
         "vdvt/history": {
             "type": "path",
-            "url": "/Users/dinhnhung/Documents/ProjectBigin/TrinhLePackages/packages/VDVT/History",
+            "url": "/Users/dinhnhung/Documents/ProjectBigin/LaravelPackages/packages/VDVT/History",
             "options": {
                 "symlink": true
             }
         },
         "vdvt/support": {
             "type": "path",
-            "url": "/Users/dinhnhung/Documents/ProjectBigin/TrinhLePackages/packages/VDVT/Support",
+            "url": "/Users/dinhnhung/Documents/ProjectBigin/LaravelPackages/packages/VDVT/Support",
             "options": {
                 "symlink": true
             }
         },
         "vdvt/filter": {
             "type": "path",
-            "url": "/Users/dinhnhung/Documents/ProjectBigin/TrinhLePackages/packages/VDVT/Filter",
+            "url": "/Users/dinhnhung/Documents/ProjectBigin/LaravelPackages/packages/VDVT/Filter",
             "options": {
                 "symlink": true
             }
